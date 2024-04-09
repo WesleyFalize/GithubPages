@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on ExampleSite</title>
-    <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on ExampleSite</description>
+    <title>PowerShell on ExampleSite</title>
+    <link>http://localhost:1313/tags/powershell/</link>
+    <description>Recent content in PowerShell on ExampleSite</description>
     <image>
       <title>ExampleSite</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,13 +12,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 09 Apr 2024 19:38:32 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/powershell/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Automation</title>
-      <link>http://localhost:1313/categories/automation/</link>
+      <title>PnP PowerShell</title>
+      <link>http://localhost:1313/posts/powershell-101/</link>
       <pubDate>Tue, 09 Apr 2024 19:38:32 +0200</pubDate>
-      <guid>http://localhost:1313/categories/automation/</guid>
-      <description></description>
+      <guid>http://localhost:1313/posts/powershell-101/</guid>
+      <description>What is PnP PowerShell PnP PowerShell is a community built and maintainer module to interact with SharePoint online
+How to install PnP PowerShell Install-Module Connecting to a SharePoint environment </description>
     </item>
   </channel>
 </rss>
