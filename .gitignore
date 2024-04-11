@@ -1,1 +1,3 @@
 content\.*
+*.cer
+*.pfx

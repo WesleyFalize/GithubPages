@@ -2,28 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/automation/</loc>
+    <loc>http://localhost:1313/githubPages/tags/automation/</loc>
+    <lastmod>2024-04-10T20:18:49+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/githubPages/posts/automation-accounts-and-microsoft-365/</loc>
+    <lastmod>2024-04-10T20:18:49+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/githubPages/tags/azure/</loc>
+    <lastmod>2024-04-10T20:18:49+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/githubPages/categories/azure/</loc>
+    <lastmod>2024-04-10T20:18:49+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/githubPages/categories/</loc>
+    <lastmod>2024-04-10T20:18:49+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/githubPages/posts/</loc>
+    <lastmod>2024-04-10T20:18:49+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/githubPages/tags/powershell/</loc>
+    <lastmod>2024-04-10T20:18:49+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/githubPages/categories/powershell/</loc>
+    <lastmod>2024-04-10T20:18:49+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/githubPages/tags/</loc>
+    <lastmod>2024-04-10T20:18:49+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/githubPages/</loc>
+    <lastmod>2024-04-10T20:18:49+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/githubPages/categories/automation/</loc>
     <lastmod>2024-04-09T19:38:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/githubPages/tags/pnp-powershell/</loc>
     <lastmod>2024-04-09T19:38:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/githubPages/posts/powershell-101/</loc>
     <lastmod>2024-04-09T19:38:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pnp-powershell/</loc>
-    <lastmod>2024-04-09T19:38:32+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/powershell-101/</loc>
-    <lastmod>2024-04-09T19:38:32+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-04-09T19:38:32+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/powershell/</loc>
-    <lastmod>2024-04-09T19:38:32+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-04-09T19:38:32+02:00</lastmod>
+    <loc>http://localhost:1313/githubPages/search/</loc>
   </url>
 </urlset>

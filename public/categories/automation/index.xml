@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Automation on ExampleSite</title>
-    <link>http://localhost:1313/categories/automation/</link>
-    <description>Recent content in Automation on ExampleSite</description>
+    <title>Automation on Wesleys Personal blog</title>
+    <link>http://localhost:1313/githubPages/categories/automation/</link>
+    <description>Recent content in Automation on Wesleys Personal blog</description>
     <image>
-      <title>ExampleSite</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>Wesleys Personal blog</title>
+      <url>http://localhost:1313/githubPages/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/githubPages/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 09 Apr 2024 19:38:32 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/automation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/githubPages/categories/automation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PnP PowerShell</title>
-      <link>http://localhost:1313/posts/powershell-101/</link>
+      <link>http://localhost:1313/githubPages/posts/powershell-101/</link>
       <pubDate>Tue, 09 Apr 2024 19:38:32 +0200</pubDate>
-      <guid>http://localhost:1313/posts/powershell-101/</guid>
+      <guid>http://localhost:1313/githubPages/posts/powershell-101/</guid>
       <description>What is PnP PowerShell PnP PowerShell is a community built and maintainer module to interact with SharePoint online
 How to install PnP PowerShell Install-Module Connecting to a SharePoint environment </description>
     </item>

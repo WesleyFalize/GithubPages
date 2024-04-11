@@ -125,6 +125,10 @@ menu:
       name: Wesleys Linkedin
       url: https://www.linkedin.com/in/wesleyfalize/
       weight: 30
+    # - identifier: Search
+    #   name: Search
+    #   url: /Search
+    #   weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

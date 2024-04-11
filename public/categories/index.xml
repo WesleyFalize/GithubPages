@@ -1,23 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on ExampleSite</title>
-    <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on ExampleSite</description>
+    <title>Categories on Wesleys Personal blog</title>
+    <link>http://localhost:1313/githubPages/categories/</link>
+    <description>Recent content in Categories on Wesleys Personal blog</description>
     <image>
-      <title>ExampleSite</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>Wesleys Personal blog</title>
+      <url>http://localhost:1313/githubPages/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/githubPages/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Apr 2024 19:38:32 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Apr 2024 20:18:49 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/githubPages/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure</title>
+      <link>http://localhost:1313/githubPages/categories/azure/</link>
+      <pubDate>Wed, 10 Apr 2024 20:18:49 +0200</pubDate>
+      <guid>http://localhost:1313/githubPages/categories/azure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PowerShell</title>
+      <link>http://localhost:1313/githubPages/categories/powershell/</link>
+      <pubDate>Wed, 10 Apr 2024 20:18:49 +0200</pubDate>
+      <guid>http://localhost:1313/githubPages/categories/powershell/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Automation</title>
-      <link>http://localhost:1313/categories/automation/</link>
+      <link>http://localhost:1313/githubPages/categories/automation/</link>
       <pubDate>Tue, 09 Apr 2024 19:38:32 +0200</pubDate>
-      <guid>http://localhost:1313/categories/automation/</guid>
+      <guid>http://localhost:1313/githubPages/categories/automation/</guid>
       <description></description>
     </item>
   </channel>
