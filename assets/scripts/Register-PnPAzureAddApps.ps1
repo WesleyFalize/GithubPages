@@ -1,7 +1,7 @@
-$TenantName = "defalize"
+$TenantName = ""
 $Connection = Connect-PnPOnline -Url "https://$tenantName-admin.sharepoint.com" -Interactive -ReturnConnection
 
-$CertificatePassword = "Welkom@Home"
+$CertificatePassword = ""
 $CertName = "PnPertificate"
 New-PnPAzureCertificate -OutPfx "$CertName.pfx" -OutCert "$CertName.cer" -CertificatePassword (ConvertTo-SecureString -String $CertificatePassword -AsPlainText -Force)
 
