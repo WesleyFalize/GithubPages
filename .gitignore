@@ -1,5 +1,4 @@
 content\/.obsidian
 content\/.smart-connections
-/public/
-/public/
+/public/*
 /resources/_gen/
