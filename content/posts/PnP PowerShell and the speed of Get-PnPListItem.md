@@ -1,18 +1,22 @@
 ---
-author: ["me"]
-title: "PnP PowerShell and the Speed of Get PnPListItem"
+author:
+  - me
+title: PnP PowerShell and the Speed of Get PnPListItem
 date: 2024-04-15T20:05:20+02:00
 description: ""
 summary: ""
-tags: [""]
-categories: [""]
-series: [""]
+tags: 
+categories:
+  - ""
+series:
+  - ""
 ShowToc: true
 TocOpen: true
 editPost:
-    URL: "https://github.com/wesleyfalize/githubpages/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  URL: https://github.com/wesleyfalize/githubpages/content
+  Text: Suggest Changes
+  appendFilePath: true
+draft: "true"
 ---
 ## Creating SharePoint list items
 ### The The basic list item

@@ -16,6 +16,7 @@ series:
   - Getting started with Azure automation
 ShowToc: true
 TocOpen: true
+draft: "true"
 ---
 ## What is an Azure Automation account?
 An Azure Automation account is a cloud-based automation and configuration management service provided by Microsoft Azure. It allows users to automate manual, time-consuming, and repetitive tasks across Azure and non-Azure environments. With an Automation account, users can create, monitor, manage, and deploy resources at scale through runbooks or workflows.

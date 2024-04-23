@@ -19,7 +19,7 @@ editPost:
   URL: https://github.com/wesleyfalize/githubpages/content
   Text: Suggest Changes
   appendFilePath: true
-draft:
+draft: "true"
 ---
 ## What is a Microsoft 365 group
 A Microsoft 365 group is a modern approach to access management with Microsoft 365. A Microsoft 365 has evolved over the use within Microsoft 365. Initially a Microsoft 365 was defined as a "Unified group" originating in Exchange. Granting the functionality of a distribution group with more functions like archival and a opt-in function. In the modern architecture a Microsoft 365 is the glue of collaboration. A Microsoft 365 group can now be connected to Teams, Viva Engage, Planner. By default it is always connected to SharePoint and Outlook, the other linked resources are option.

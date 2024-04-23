@@ -24,6 +24,7 @@ editPost:
   URL: https://github.com/wesleyfalize/githubpages/content
   Text: Suggest Changes
   appendFilePath: true
+draft: "false"
 ---
 ## What is an Azure function?
 
