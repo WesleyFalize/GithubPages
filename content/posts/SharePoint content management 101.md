@@ -33,3 +33,12 @@ The foundation of content management within SharePoint is surprisingly the conte
 - Collaboration
 ### Version history
 In the blog post [SharePoint version history](/posts/sharepoint-version-history) we will go a lot deeper into version history. By default version history is enabled on a list. 100 versions can be stored for each file and you are able to go back through all those versions and see the changes. For sparsely used files this means you can go back a very long time. For items that are used often it might create 100 versions in a few days. Especially with collaborating with multiple people the version count increases quickly. From the version history you can open a file and see it at the state it was and then restore it, creating a new version and working from there.
+
+### Recycle bin
+For a deeper dive please visit [SharePoint Recycle bin](/posts/sharepoint-recycle-bin) once it's available.
+### Metadata
+For a deeper dive please visit [SharePoint metadata](/posts/sharepoint-metadata) once it's available.
+### Worklows
+For a deeper dive please visit [SharePoint workflows](/posts/sharepoint-workflows) once it's available.
+### Collaboration
+For a deeper dive please visit [SharePoint collaboration](/posts/sharepoint-collaboration) once it's available.
