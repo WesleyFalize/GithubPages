@@ -9,16 +9,17 @@
       <url>http://localhost:1313/githubPages/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/githubPages/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.124.1</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Apr 2024 20:18:49 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 20:31:09 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/githubPages/tags/automation/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Automation Accounts and Microsoft 365</title>
-      <link>http://localhost:1313/githubPages/posts/automation-accounts-and-microsoft-365/</link>
-      <pubDate>Wed, 10 Apr 2024 20:18:49 +0200</pubDate>
-      <guid>http://localhost:1313/githubPages/posts/automation-accounts-and-microsoft-365/</guid>
-      <description>What is an automation account and how to use it in conjunction with Microsoft 365</description>
+      <title>Setting Up a Azure Function and Use PnP PowerShell</title>
+      <link>http://localhost:1313/githubPages/posts/setting-up-a-azure-function-and-use-pnp-powershell/</link>
+      <pubDate>Tue, 16 Apr 2024 20:31:09 +0200</pubDate>
+      <guid>http://localhost:1313/githubPages/posts/setting-up-a-azure-function-and-use-pnp-powershell/</guid>
+      <description>What is an Azure function? An Azure Function is a serverless compute service that allows you to run small pieces of code without having to worry about the infrastructure. You can use Azure Functions to trigger code on a schedule, respond to events, or connect to other services.
+What is PnP PowerShell? PnP PowerShell is a set of PowerShell cmdlets that allow you to interact with SharePoint Online and Microsoft 365.</description>
     </item>
   </channel>
 </rss>

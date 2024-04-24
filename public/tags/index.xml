@@ -9,36 +9,57 @@
       <url>http://localhost:1313/githubPages/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/githubPages/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.124.1</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Apr 2024 20:18:49 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 20:57:14 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/githubPages/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#SharePoint</title>
+      <link>http://localhost:1313/githubPages/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/githubPages/tags/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ContentManagement</title>
+      <link>http://localhost:1313/githubPages/tags/contentmanagement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/githubPages/tags/contentmanagement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ContentTypes</title>
+      <link>http://localhost:1313/githubPages/tags/contenttypes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/githubPages/tags/contenttypes/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Automation</title>
       <link>http://localhost:1313/githubPages/tags/automation/</link>
-      <pubDate>Wed, 10 Apr 2024 20:18:49 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/githubPages/tags/automation/</guid>
       <description></description>
     </item>
     <item>
       <title>Azure</title>
       <link>http://localhost:1313/githubPages/tags/azure/</link>
-      <pubDate>Wed, 10 Apr 2024 20:18:49 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/githubPages/tags/azure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PnP</title>
+      <link>http://localhost:1313/githubPages/tags/pnp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/githubPages/tags/pnp/</guid>
       <description></description>
     </item>
     <item>
       <title>PowerShell</title>
       <link>http://localhost:1313/githubPages/tags/powershell/</link>
-      <pubDate>Wed, 10 Apr 2024 20:18:49 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/githubPages/tags/powershell/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>PnP PowerShell</title>
-      <link>http://localhost:1313/githubPages/tags/pnp-powershell/</link>
-      <pubDate>Tue, 09 Apr 2024 19:38:32 +0200</pubDate>
-      <guid>http://localhost:1313/githubPages/tags/pnp-powershell/</guid>
       <description></description>
     </item>
   </channel>

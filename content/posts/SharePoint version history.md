@@ -10,7 +10,7 @@ series: [""]
 ShowToc: true
 TocOpen: true
 editPost:
-    URL: "https://github.com/wesleyfalize/githubpages/content"
+    URL: "https://github.com/WesleyFalize/GithubPages/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---

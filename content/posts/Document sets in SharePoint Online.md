@@ -17,7 +17,7 @@ series:
 ShowToc: true
 TocOpen: true
 editPost:
-  URL: https://github.com/wesleyfalize/githubpages/content
+  URL: https://github.com/WesleyFalize/GithubPages/tree/main/content
   Text: Suggest Changes
   appendFilePath: true
 draft: "true"
